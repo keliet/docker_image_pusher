@@ -1,4 +1,4 @@
-db/postgres:16-alpine
+db/postgres
 minio/minio:RELEASE.2025-01-20T14-49-07Z
 redis/redis-stack:latest
 qdrant/qdrant:v1.13.1
