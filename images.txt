@@ -3,3 +3,4 @@ postgres:16-alpine
 redis/redis-stack:latest
 reflyai/qdrant:v1.13.1
 reflyai/elasticsearch:7.10.2
+#
